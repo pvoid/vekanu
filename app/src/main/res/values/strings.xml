@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vecka nu</string>
+    <string name="complications_provider_week_number">Week number</string>
+</resources>
